@@ -16,8 +16,8 @@ This is a simple calculator application built with Python and Tkinter.
 
 ## How to Run
 
-1. Clone the repository: `git clone https://github.com/your-username/python-calculator.git`
-2. Navigate to the project directory: `cd python-calculator`
+1. Clone the repository: `git clone https://github.com/maelgruand1/PyCalculator.git`
+2. Navigate to the project directory: `cd PyCalculator`
 3. Run the main script: `python main.py`
 
 ## Usage
